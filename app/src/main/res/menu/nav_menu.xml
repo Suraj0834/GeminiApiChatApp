@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tutorial"
+        android:title="Tutorial" />
+    <item
+        android:id="@+id/nav_new_chat"
+        android:title="New Chat" />
+    <item
+        android:id="@+id/nav_connect"
+        android:title="Connect" />
+    <item
+        android:id="@+id/nav_language"
+        android:title="Language" />
+</menu>
