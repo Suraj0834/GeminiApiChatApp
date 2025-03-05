@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
             val generativeModel = GenerativeModel(
                 modelName = "gemini-2.0-flash",
-                apiKey = "AIzaSyD4eP0vcFwwLDls81Xb8nT1REOoufK1MqU" // ENTER YOUR KEY
+                apiKey = " " // ENTER YOUR KEY
             )
 
             runBlocking {
